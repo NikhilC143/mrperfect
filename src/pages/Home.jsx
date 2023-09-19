@@ -4,7 +4,7 @@ import '../pages/home.css'
 const Home = () => {
     
     return (
-       
+       document.title = 'Mr.Perfect',
       
         <div>
            <link href='https://fonts.googleapis.com/css?family=Pacifico'></link>
